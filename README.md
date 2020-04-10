@@ -10,3 +10,4 @@ Sample website with plenty of files for demos
 Sample introduction
 
 ## Deployment
+Website can be deployed on heroku servers or on localhost
