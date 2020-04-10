@@ -11,3 +11,6 @@ Sample introduction for this project. We will build on this gradually.
 
 ## Deployment
 Website can be deployed on heroku servers or on localhost
+
+#### Copyright Notice added
+Copyrights reserved.
