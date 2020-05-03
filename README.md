@@ -18,5 +18,5 @@ Website can be deployed on heroku servers or on localhost
 #### Copyright Notice added
 Copyrights reserved.
 
-## Adding a line for rebasing example
+## Adding a line for rebasing example. More changes done on myfeature branch
 
